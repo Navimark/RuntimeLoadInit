@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "640C334C-38C7-4FFD-98F9-17813A0FEDD7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "197DC183-8670-4AB8-9484-AFA297E25D88"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "+[KFCRootObject initialize]"
+            moduleName = "">
+            <Locations>
+               <Location
+                  uuid = "197DC183-8670-4AB8-9484-AFA297E25D88 - 8ca41c0847b03418"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[KFCRootObject initialize]"
+                  moduleName = "KCObjcBuild"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
