@@ -20,6 +20,7 @@ int main(int argc, const char * argv[]) {
         NSLog(@"Hello, World!");
         NSObject *objc = [KFCRootObject alloc];
         
+        NSObject *objc1 = [KFCRootObject alloc];
     }
     return 0;
 }

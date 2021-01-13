@@ -11,15 +11,15 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            symbolName = "+[KFCRootObject initialize]"
+            symbolName = "+[KFCRootObject load]"
             moduleName = "">
             <Locations>
                <Location
-                  uuid = "197DC183-8670-4AB8-9484-AFA297E25D88 - 8ca41c0847b03418"
+                  uuid = "197DC183-8670-4AB8-9484-AFA297E25D88 - 251b3f76f2d80380"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "+[KFCRootObject initialize]"
+                  symbolName = "+[KFCRootObject load]"
                   moduleName = "KCObjcBuild"
                   usesParentBreakpointCondition = "Yes"
                   offsetFromSymbolStart = "0">
