@@ -14,10 +14,10 @@
     NSLog(@"KFCGrandson.load");
 }
 
-+ (void)initialize
-{
-    NSLog(@"KFCGrandson.initialize");
-}
+//+ (void)initialize
+//{
+//    NSLog(@"KFCGrandson.initialize");
+//}
 
 
 @end

@@ -13,14 +13,15 @@
 
 #import <Foundation/Foundation.h>
 #import "KFCRootObject.h"
+#import "KFCGreatGrandson.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
         NSLog(@"Hello, World!");
-        NSObject *objc = [KFCRootObject alloc];
+//        NSObject *objc = [KFCRootObject alloc];
         
-        NSObject *objc1 = [KFCRootObject alloc];
+        NSObject *objc1 = [KFCGreatGrandson alloc];
     }
     return 0;
 }
